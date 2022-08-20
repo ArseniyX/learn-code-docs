@@ -13,5 +13,7 @@ RUN Write-Host hello
 
 # Executed as cmd /S /C echo hello!
 SHELL ["cmd", "/S", "/C"]
+
+#test
 RUN echo hello
 ```
