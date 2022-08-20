@@ -1,0 +1,22 @@
+{
+  "Basic Concepts": [
+    {
+      "name": "1.1 Lesson",
+      "desc": "Welcome to python"
+    },
+    {
+      "name": "1.2 Practice",
+      "desc": "Your First Program"
+    }
+  ],
+  "Strings & Variables": [
+    {
+      "name": "1.1 Lesson",
+      "desc": "Strings"
+    },
+    {
+      "name": "1.2 Practice",
+      "desc": "Variables"
+    }
+  ]
+}
