@@ -1,5 +1,18 @@
 {
-  "names": [
-    "dockerfile"
-  ]
+  "python": {
+    "displayName": "Python",
+    "color": "red"
+  },
+  "java-script": {
+    "displayName": "Java Script",
+    "color": "yellow"
+  },
+  "docker": {
+    "displayName": "Docker",
+    "color": "blue"
+  },
+  "node-js": {
+    "displayName": "Node.js",
+    "color": "green"
+  }
 }
