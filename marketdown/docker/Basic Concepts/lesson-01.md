@@ -1,4 +1,4 @@
-```dockerfile
+```dockerfile{2-3}
 FROM microsoft/windowsservercore
 
 # Executed as cmd /S /C echo default
