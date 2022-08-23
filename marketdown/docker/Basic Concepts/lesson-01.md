@@ -1,4 +1,4 @@
-```dockerfile?+{1,9-12}|-{2,3-6}|n{5-6}
+```dockerfile?+{1,9-12}|-{2,3-6}|n{5-6,15}
 FROM microsoft/windowsservercore
 
 # Executed as cmd /S /C echo default
