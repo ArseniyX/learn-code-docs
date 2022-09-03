@@ -7,7 +7,7 @@ app.post("/api/login", (req, res) => {
     username: "john",
     email: "john@gmail.com"
   };
-  ![jwt].![sign]({ user: user }, "secretkey", (err, token) => {
+  ![jwt].![sign]({ user }, "secretkey", (err, token) => {
     res.![json]({
       token
     });
