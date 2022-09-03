@@ -1,6 +1,6 @@
 # Javascript example
 
-```javascript
+```javascript?test
 app.post("/api/login", (req, res) => {
   const user = {
     id: 1,
