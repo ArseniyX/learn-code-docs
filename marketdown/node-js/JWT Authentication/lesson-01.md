@@ -14,3 +14,15 @@ app.post("/api/login", (req, res) => {
   });
 });
 ```
+
+---
+
+## JSON example
+
+```json?test
+{
+  "access_token": "eyJhb...",
+  "token_type": "![Bearer]",
+  "expires_in": 3600
+}
+```
