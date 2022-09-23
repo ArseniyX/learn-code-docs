@@ -1,7 +1,8 @@
 {
   "docker": {
     "displayName": "Docker",
-    "color": "blue"
+    "color": "#066da5",
+    "icon": "docker"
   },
   "node-js": {
     "displayName": "Node.js",
