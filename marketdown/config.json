@@ -6,7 +6,7 @@
   },
   "node-js": {
     "displayName": "Node.js",
-    "color": "green",
+    "color": "#68a063",
     "icon": "nodejs"
   }
 }
